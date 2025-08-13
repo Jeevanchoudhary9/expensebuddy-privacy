@@ -21,4 +21,4 @@ Your data is stored locally or on your chosen backend. Please ensure your backen
 
 6. Contact
 If you have any questions about this policy, contact us at:
-support@yourdomain.com
+jeevanchoudhary2421+privacypolicy.com
